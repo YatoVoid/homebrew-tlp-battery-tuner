@@ -1,8 +1,8 @@
 class TlpBatteryTuner < Formula
   desc "Battery-focused TLP tuning config installer"
   homepage "https://github.com/YatoVoid/tlp-battery-tuner"
-  url "https://github.com/YatoVoid/tlp-battery-tuner/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "43b0711f9efa0014754e69cbd4e10bf36abbecef5d8cc36d71410588c255e24d"
+  url "https://github.com/YatoVoid/tlp-battery-tuner/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "d7b407a9edd31ddb121fad314bf63cfa0f1a104b09de274fe2fdbbebcdf2a871"
   license "MIT"
 
   depends_on :linux
